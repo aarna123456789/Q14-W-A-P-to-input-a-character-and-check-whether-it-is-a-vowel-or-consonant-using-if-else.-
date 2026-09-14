@@ -1,0 +1,1 @@
+# Q14-W-A-P-to-input-a-character-and-check-whether-it-is-a-vowel-or-consonant-using-if-else.-
